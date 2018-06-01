@@ -18,6 +18,9 @@
         <module>cqrs-pattern</module>
         <module>compensating-transaction-pattern</module>
         <module>competing-consumer-pattern</module>
+        <module>compute-resource-consolidation-pattern</module>
+        <module>event-sourcing-pattern</module>
+        <module>external-configuration-store-pattern</module>
     </modules>
 
     <name>Cloud Design Patterns</name>
