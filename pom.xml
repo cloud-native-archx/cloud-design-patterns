@@ -3,10 +3,9 @@
          xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
-    <groupId>com.developerbhuwan</groupId>
-    <artifactId>cloud-design-patterns</artifactId>
     <packaging>pom</packaging>
+    <groupId>com.developerbhuwan.clouddesignpatterns</groupId>
+    <artifactId>cloud-design-patterns</artifactId>
     <version>1.0.0.BUILD-SNAPSHOT</version>
     <modules>
         <module>ambassador-pattern</module>
@@ -21,6 +20,26 @@
         <module>compute-resource-consolidation-pattern</module>
         <module>event-sourcing-pattern</module>
         <module>external-configuration-store-pattern</module>
+        <module>federated-identity-pattern</module>
+        <module>gatekeeper-pattern</module>
+        <module>gateway-aggregation-pattern</module>
+        <module>gateway-offloading-pattern</module>
+        <module>gateway-routing-pattern</module>
+        <module>health-endpoint-monitoring-pattern</module>
+        <module>index-table-pattern</module>
+        <module>leader-election-pattern</module>
+        <module>materialized-view-pattern</module>
+        <module>pipes-and-filters-pattern</module>
+        <module>priority-queue-pattern</module>
+        <module>queue-based-load-leveling-pattern</module>
+        <module>retry-pattern</module>
+        <module>scheduler-agent-supervisor-pattern</module>
+        <module>sharding-pattern</module>
+        <module>sidecar-pattern</module>
+        <module>static-content-hosting-pattern</module>
+        <module>strangler-pattern</module>
+        <module>throttling-pattern</module>
+        <module>valet-key-pattern</module>
     </modules>
 
     <name>Cloud Design Patterns</name>
