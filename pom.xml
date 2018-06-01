@@ -10,6 +10,7 @@
     <version>1.0.0.BUILD-SNAPSHOT</version>
     <modules>
         <module>ambassador-pattern</module>
+        <module>anti-corruption-layer-pattern</module>
     </modules>
 
     <name>Cloud Design Patterns</name>
