@@ -11,6 +11,13 @@
     <modules>
         <module>ambassador-pattern</module>
         <module>anti-corruption-layer-pattern</module>
+        <module>bankend-for-frontends-pattern</module>
+        <module>bulkhead-pattern</module>
+        <module>cache-aside-pattern</module>
+        <module>circuit-breaker-pattern</module>
+        <module>cqrs-pattern</module>
+        <module>compensating-transaction-pattern</module>
+        <module>competing-consumer-pattern</module>
     </modules>
 
     <name>Cloud Design Patterns</name>
